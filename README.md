@@ -18,5 +18,4 @@ and the facial emotion model was trained with dataset which can be found here - 
 Age_gender_facialEmotion_and _object_detector this file is where I bring all the models together and use it in realtime with the help of cv2.
 
 
-Today, Gender,age,object and facial emotion recognition is the core of most vision-based AI software and programs. This detections plays an important role in scene understanding, 
-which is popular in security, transportation, medical, and military use cases.
+Today, Gender,age,object and facial emotion recognition is the core of most vision-based AI software and programs. This detections plays an important role in scene understanding, which is popular in security, transportation, medical, and military use cases.
