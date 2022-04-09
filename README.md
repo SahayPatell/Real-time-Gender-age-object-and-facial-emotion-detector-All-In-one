@@ -13,8 +13,8 @@ There are total 4 model used to build this
 
 
 All the trained model are in their respective folder with the .h5 extension and the ipynb files are for can be used to understand how the model was trained.
-Both of Age and gender models are trained with same dataset that was utkFaces you can find the dataset over here - https://susanqq.github.io/UTKFace/
-and the facial emotion model was trained with dataset which can be found here - https://www.kaggle.com/datasets/uldisvalainis/fergit.
+Both of Age and gender models are trained with same dataset that was utkFaces you can find the dataset over here - https://susanqq.github.io/UTKFace/ and the
+facial emotion model was trained with dataset which can be found here - https://www.kaggle.com/datasets/uldisvalainis/fergit.
 Age_gender_facialEmotion_and _object_detector this file is where I bring all the models together and use it in realtime with the help of cv2.
 
 
